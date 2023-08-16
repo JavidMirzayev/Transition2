@@ -119,4 +119,39 @@ body {
     display: flex;
     align-items: centerf;
   }
+}
+
+#text .minibox {
+  border: 4px solid #375e8a;
+  background-color: #375e8a;
+  padding: 45px 0 0 65px;
+  font-size: 25px;
+  color: white;
+  width: 210px;
+  height: 140px;
+}
+#text .big {
+  position: relative;
+  top: 80px;
+}
+#text .big2 {
+  position: relative;
+  top: 95px;
+}
+#text .big3 {
+  position: relative;
+  top: 110px;
+}
+#text .big4 {
+  position: relative;
+  top: 125px;
+}
+#text .big5 {
+  position: relative;
+  top: 141px;
+  left: 210px;
+}
+#text .big6 {
+  position: relative;
+  top: 1px;
 }/*# sourceMappingURL=style.css.map */
