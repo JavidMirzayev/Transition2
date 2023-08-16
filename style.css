@@ -17,4 +17,26 @@ body {
 }
 #demo .minibox:hover {
   border: 20px solid #5c77c0;
+}
+@media (max-width: 400px) {
+  #demo .box {
+    flex-direction: column;
+  }
+}
+
+#boxx {
+  padding: 30px;
+}
+#boxx .minibox {
+  border: 4px solid #764c86;
+  background-color: #764c86;
+  padding: 10px 0 0 50px;
+  border-radius: 5px;
+  color: white;
+  width: 150px;
+  height: 70px;
+  transition: 2s;
+}
+#boxx .minibox:hover {
+  background-color: #3f2647;
 }/*# sourceMappingURL=style.css.map */
