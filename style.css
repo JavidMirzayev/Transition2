@@ -154,4 +154,42 @@ body {
 #text .big6 {
   position: relative;
   top: 1px;
+}
+
+#texta {
+  padding: 0 0 100px;
+}
+#texta .minibox {
+  border: 4px solid #51996d;
+  background-color: #51996d;
+  padding: 45px 0 0 65px;
+  font-size: 25px;
+  color: white;
+  width: 210px;
+  height: 140px;
+}
+#texta .big {
+  position: relative;
+  top: 125px;
+}
+#texta .big2 {
+  position: relative;
+  top: 141px;
+  left: 210px;
+}
+#texta .big3 {
+  position: relative;
+  top: 1px;
+}
+#texta .big4 {
+  position: relative;
+  top: 15px;
+}
+#texta .big5 {
+  position: relative;
+  top: 30px;
+}
+#texta .big6 {
+  position: relative;
+  top: 45px;
 }/*# sourceMappingURL=style.css.map */
