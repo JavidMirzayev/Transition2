@@ -17,6 +17,8 @@ body {
 }
 #demo .minibox:hover {
   border: 20px solid #5c77c0;
+  display: flex;
+  align-content: center;
 }
 @media (max-width: 600px) {
   #demo .box {
